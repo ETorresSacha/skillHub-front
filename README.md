@@ -35,7 +35,6 @@ alt="EmailJS" width="40" height="40"/> </a>
 alt="Redux Toolkit" width="40" height="40"/> </a> 
 
 </p>
-![image](https://github.com/ETorresSacha/skillHub-front/assets/122553836/9fe99640-af62-4c79-af16-076aa2c5e715)
 
 
 ----------------------
