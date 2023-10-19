@@ -39,6 +39,8 @@ alt="Redux Toolkit" width="40" height="40"/> </a>
 
 ----------------------
 Este es el frontend de SkillHub, una aplicación que conecta a personas con habilidades y servicios para facilitar la colaboración y el intercambio de conocimientos. Aquí encontrarás la interfaz de usuario y la interacción del usuario con la funcionalidad de SkillHub.
+![image](https://github.com/ETorresSacha/skillHub-front/assets/122553836/ac3fec8b-b5d9-4c83-bbed-1d01036a31b7)
+
 
 ## Tecnologías Utilizadas
 
